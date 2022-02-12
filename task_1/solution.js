@@ -10,7 +10,7 @@ function addInCartMessage(title, price) {
 		+ ' '
 		+ productPrice
 		+ ' '
-		+ 'теперь в корзине';
+		+ 'теперь в корзине!';
 
 	console.log(message);
 	// создайте переменную message
